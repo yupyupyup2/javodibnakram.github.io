@@ -1,0 +1,42 @@
+body {
+    background-color: lightgray;
+}
+
+h1 {
+    color: rgb(60,70,80);
+    font-family: verdana;
+    font-size: 300%;
+    text-align: center;
+}
+
+
+p {
+    color:green;
+    text-align: center;
+    font-family: Wingdings;
+    font-size: 14px;
+}
+
+img {
+	border-style: dashed;
+	border-color: blue;
+}
+
+h2 {
+    font-size: 30px;
+    color: rgb(50,50,100);
+    text-align: center;
+}
+
+h3 {
+    font-size: 28px;
+    color: teal;
+    text-align: center;
+}
+
+ul {
+	color: rgb(10, 80, 100);
+} 
+
+
+
